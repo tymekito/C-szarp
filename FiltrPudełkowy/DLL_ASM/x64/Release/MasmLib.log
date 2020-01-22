@@ -1,0 +1,21 @@
+﻿  Assembling Lib.asm...
+Lib.asm(154): warning A6004: procedure argument or local not referenced : channelPtr
+Lib.asm(154): warning A6004: procedure argument or local not referenced : outputChannelPtr
+Lib.asm(154): warning A6004: procedure argument or local not referenced : rowWidth
+Lib.asm(154): warning A6004: procedure argument or local not referenced : radius
+Lib.asm(271): warning A6004: procedure argument or local not referenced : channelPtr
+Lib.asm(271): warning A6004: procedure argument or local not referenced : outputChannelPtr
+Lib.asm(271): warning A6004: procedure argument or local not referenced : rowWidth
+Lib.asm(271): warning A6004: procedure argument or local not referenced : height
+Lib.asm(271): warning A6004: procedure argument or local not referenced : radius
+Lib.asm(334): warning A6004: procedure argument or local not referenced : boxesArr
+Lib.asm(334): warning A6004: procedure argument or local not referenced : boxesCount
+Lib.asm(334): warning A6004: procedure argument or local not referenced : sigma
+  dllmain.cpp
+     Creating library C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\x64\DLL_ASM.lib and object C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\x64\DLL_ASM.exp
+DLL_ASM.exp : warning LNK4070: /OUT:MasmLib.dll directive in .EXP differs from output filename 'C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\x64\DLL_ASM.dll'; ignoring directive
+  Generating code
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+DLL_ASM.exp : warning LNK4070: /OUT:MasmLib.dll directive in .EXP differs from output filename 'C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\x64\DLL_ASM.dll'; ignoring directive
+  MasmLib.vcxproj -> C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\x64\DLL_ASM.dll

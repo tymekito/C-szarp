@@ -1,0 +1,14 @@
+﻿  Assembling Lib.asm...
+Lib.asm(162): warning A6004: procedure argument or local not referenced : channelPtr
+Lib.asm(162): warning A6004: procedure argument or local not referenced : outputChannelPtr
+Lib.asm(162): warning A6004: procedure argument or local not referenced : rowWidth
+Lib.asm(162): warning A6004: procedure argument or local not referenced : radius
+Lib.asm(279): warning A6004: procedure argument or local not referenced : channelPtr
+Lib.asm(279): warning A6004: procedure argument or local not referenced : outputChannelPtr
+Lib.asm(279): warning A6004: procedure argument or local not referenced : rowWidth
+Lib.asm(279): warning A6004: procedure argument or local not referenced : height
+Lib.asm(279): warning A6004: procedure argument or local not referenced : radius
+Lib.asm(342): warning A6004: procedure argument or local not referenced : boxesArr
+Lib.asm(342): warning A6004: procedure argument or local not referenced : boxesCount
+Lib.asm(342): warning A6004: procedure argument or local not referenced : sigma
+  MasmLib.vcxproj -> C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\x64\DLL_ASM.dll

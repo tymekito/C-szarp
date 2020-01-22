@@ -1,0 +1,18 @@
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\Statystyk\bin\x64\Debug\Statystyk.exe.config
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\Statystyk\bin\x64\Debug\Statystyk.exe
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\Statystyk\bin\x64\Debug\Statystyk.pdb
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\Statystyk\bin\x64\Debug\Filtr Gaussa.exe
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\Statystyk\bin\x64\Debug\GalaSoft.MvvmLight.dll
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\Statystyk\bin\x64\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\Statystyk\bin\x64\Debug\System.Windows.Interactivity.dll
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\Statystyk\bin\x64\Debug\Filtr Gaussa.pdb
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\Statystyk\bin\x64\Debug\Filtr Gaussa.exe.config
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\Statystyk\bin\x64\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\Statystyk\bin\x64\Debug\GalaSoft.MvvmLight.xml
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\Statystyk\bin\x64\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\Statystyk\bin\x64\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\Statystyk\obj\x64\Debug\Statystyk.csprojAssemblyReference.cache
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\Statystyk\obj\x64\Debug\Statystyk.csproj.CoreCompileInputs.cache
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\Statystyk\obj\x64\Debug\Statystyk.csproj.CopyComplete
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\Statystyk\obj\x64\Debug\Statystyk.exe
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\Statystyk\obj\x64\Debug\Statystyk.pdb

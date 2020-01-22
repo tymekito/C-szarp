@@ -1,0 +1,4 @@
+LIBRARY MasmLib
+EXPORTS BoxBlurHorizontal
+EXPORTS BoxBlurVertical
+EXPORTS GetBoxes

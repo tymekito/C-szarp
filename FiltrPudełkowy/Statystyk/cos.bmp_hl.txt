@@ -1,0 +1,8 @@
+File: C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\Statystyk\cos.bmp, size: 267x247 (width x height).
+Iterations: 4, sigma: 2.
+
+Threads;Min [ms];Max [ms];Average [ms]; StDev [ms]
+1;31,6401;31,6401;31,6401;0
+2;33,9591;33,9591;33,9591;0
+3;16,1737;16,1737;16,1737;0
+4;17,6043;17,6043;17,6043;0

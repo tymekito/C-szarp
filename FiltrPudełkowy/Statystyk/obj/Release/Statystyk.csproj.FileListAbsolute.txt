@@ -1,0 +1,8 @@
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\Release\Statystyk.exe.config
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\Release\Statystyk.exe
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\Release\Statystyk.pdb
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\Statystyk\obj\Release\Statystyk.csprojAssemblyReference.cache
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\Statystyk\obj\Release\Statystyk.csproj.CoreCompileInputs.cache
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\Statystyk\obj\Release\Statystyk.csproj.CopyComplete
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\Statystyk\obj\Release\Statystyk.exe
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\Statystyk\obj\Release\Statystyk.pdb

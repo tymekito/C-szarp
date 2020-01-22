@@ -1,0 +1,21 @@
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\Release\Filtr Gaussa.exe.config
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\Release\Filtr Gaussa.exe
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\Release\Filtr Gaussa.pdb
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\obj\Release\ImageWindow.g.cs
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\obj\Release\App.g.cs
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\obj\Release\Filtr Gaussa_MarkupCompile.cache
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\obj\Release\Filtr Gaussa_MarkupCompile.lref
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\obj\Release\App.baml
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\obj\Release\ImageWindow.baml
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\obj\Release\Filtr Gaussa.g.resources
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\obj\Release\Pl.Bbit.GaussianFilterApp.Properties.Resources.resources
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\obj\Release\MAIN.csproj.GenerateResource.cache
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\obj\Release\MAIN.csproj.CoreCompileInputs.cache
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\obj\Release\MAIN.csproj.CopyComplete
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\obj\Release\Filtr Gaussa.exe
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\obj\Release\Filtr Gaussa.pdb
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\x64\Filtr Gaussa.exe.config
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\x64\Filtr Gaussa.exe
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\x64\Filtr Gaussa.pdb
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\obj\Release\MAIN.csprojAssemblyReference.cache

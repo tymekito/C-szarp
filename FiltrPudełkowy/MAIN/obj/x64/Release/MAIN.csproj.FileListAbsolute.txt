@@ -1,0 +1,36 @@
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\bin\x64\Release\Filtr Gaussa.exe.config
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\bin\x64\Release\Filtr Gaussa.exe
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\bin\x64\Release\Filtr Gaussa.pdb
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\bin\x64\Release\CommonServiceLocator.dll
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\bin\x64\Release\GalaSoft.MvvmLight.dll
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\bin\x64\Release\GalaSoft.MvvmLight.Extras.dll
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\bin\x64\Release\GalaSoft.MvvmLight.Platform.dll
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\bin\x64\Release\Microsoft.Expression.Controls.dll
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\bin\x64\Release\Microsoft.Expression.Drawing.dll
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\bin\x64\Release\Microsoft.Expression.Effects.dll
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\bin\x64\Release\Microsoft.Expression.Interactions.dll
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\bin\x64\Release\Microsoft.Expression.Prototyping.Interactivity.dll
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\bin\x64\Release\Microsoft.Expression.Prototyping.SketchControls.dll
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\bin\x64\Release\Microsoft.SDK.Expression.Blend.dll
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\bin\x64\Release\System.Windows.Interactivity.dll
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\bin\x64\Release\GalaSoft.MvvmLight.pdb
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\bin\x64\Release\GalaSoft.MvvmLight.xml
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\bin\x64\Release\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\bin\x64\Release\GalaSoft.MvvmLight.Extras.xml
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\bin\x64\Release\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\bin\x64\Release\GalaSoft.MvvmLight.Platform.xml
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\obj\x64\Release\MAIN.csprojAssemblyReference.cache
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\obj\x64\Release\ImageWindow.g.cs
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\obj\x64\Release\App.g.cs
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\obj\x64\Release\Filtr Gaussa_MarkupCompile.cache
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\obj\x64\Release\Filtr Gaussa_MarkupCompile.lref
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\obj\x64\Release\App.baml
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\obj\x64\Release\ImageWindow.baml
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\obj\x64\Release\Filtr Gaussa.g.resources
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\obj\x64\Release\Pl.Bbit.GaussianFilterApp.Properties.Resources.resources
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\obj\x64\Release\MAIN.csproj.GenerateResource.cache
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\obj\x64\Release\MAIN.csproj.CoreCompileInputs.cache
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\obj\x64\Release\MAIN.csproj.CopyComplete
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\obj\x64\Release\Filtr Gaussa.exe
+C:\Users\kazim\Desktop\Studia\JA\Projekt\Źródła\MAIN\obj\x64\Release\Filtr Gaussa.pdb
