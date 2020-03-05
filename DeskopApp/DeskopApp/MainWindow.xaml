@@ -15,7 +15,7 @@
             <Setter Property="Margin" Value="0.5"/>
             <Setter Property="FontSize" Value="25"/>
             <Setter Property="VerticalContentAlignment" Value="Center"/>
-            <Setter Property="Height" Value="62"/>
+            <Setter Property="Height" Value="75"/>
             <Setter Property="Width" Value="199"/>
         </Style>
     </Window.Resources>
@@ -52,14 +52,14 @@
         <Button Content="Send" Width="75" />
     </WrapPanel>-->
     <Grid>
-        
+
         <Grid.RowDefinitions>
             <RowDefinition Height="*"/>
             <RowDefinition Height="*"/>
             <RowDefinition Height="*"/>
             <RowDefinition Height="*"/>
             <RowDefinition Height="*"/>
-            <RowDefinition Height="*"/>
+
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*"/>
@@ -67,84 +67,85 @@
             <ColumnDefinition Width="*"/>
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
-        
-        <TextBlock Grid.Row="0" Grid.ColumnSpan="4" 
-                 Grid.RowSpan="2" TextWrapping="Wrap" 
-                 Text="Calculator" FontSize="30" LineHeight="1"  />
+
+        <TextBlock Grid.Row="0" Grid.ColumnSpan="1" 
+                 Grid.RowSpan="1" TextWrapping="Wrap" 
+                 HorizontalAlignment="Center" VerticalAlignment="Center"
+                 Text="Calculator" TextAlignment="Center"
+                 FontSize="30" LineHeight="1" Width="193" />
+
         <Button Content="7" HorizontalAlignment="Left" 
-                Grid.Column="1" Grid.Row="2"
+                Grid.Column="1" Grid.Row="1"
                 VerticalAlignment="Top"  
-                Click="Button_Click" Tag="Button_7" />
+                Click="Button_Click" Tag="Button_7" Margin="0" Grid.RowSpan="2" Width="199" />
         <Button Content="8" HorizontalAlignment="Left" 
-                Grid.Column="2" Grid.Row="2" 
+                Grid.Column="2" Grid.Row="1" 
                 VerticalAlignment="Top" 
-                Click="Button_Click" Tag="Button_8"/>
+                Click="Button_Click" Tag="Button_8" Grid.ColumnSpan="2"  Grid.RowSpan="2" Height="76" Margin="1,0,0,0" Width="198" />
         <Button Content="9" HorizontalAlignment="Left" 
-                Grid.Column="4" Grid.Row="2"
+                Grid.Column="3" Grid.Row="1"
                 VerticalAlignment="Top" 
-                Click="Button_Click" Tag="Button_9"/>
+                Click="Button_Click" Tag="Button_9" Height="74" Margin="1,0,0,0" Width="198"/>
         <Button Content="4" HorizontalAlignment="Left" 
+                Grid.Column="1" Grid.Row="2"
+                VerticalAlignment="Top" 
+                Click="Button_Click" Tag="Button_4"  Grid.RowSpan="2" Height="76" Margin="0" Width="199"/>
+        <Button Content="5" HorizontalAlignment="Left" 
+                Grid.Column="2" Grid.Row="2" 
+                VerticalAlignment="Top"
+                Click="Button_Click" Tag="Button_5" Grid.ColumnSpan="2"  Grid.RowSpan="2" Height="76" Margin="1,0,0,0" Width="198"/>
+        <Button Content="6" HorizontalAlignment="Left" 
+                Grid.Column="3" Grid.Row="2" 
+                VerticalAlignment="Top" 
+                Click="Button_Click" Tag="Button_6"  Grid.RowSpan="2" Height="76" Margin="1,0,0,0" Width="198"/>
+        <Button Content="1" HorizontalAlignment="Left" 
                 Grid.Column="1" Grid.Row="3"
                 VerticalAlignment="Top" 
-                Click="Button_Click" Tag="Button_4"/>
-        <Button Content="5" HorizontalAlignment="Left" 
+                Click="Button_Click" Tag="Button_1"  Grid.RowSpan="2" Height="76" Margin="0"/>
+        <Button Content="2" HorizontalAlignment="Left" 
                 Grid.Column="2" Grid.Row="3" 
-                VerticalAlignment="Top"
-                Click="Button_Click" Tag="Button_5"/>
-        <Button Content="6" HorizontalAlignment="Left" 
+                VerticalAlignment="Top" 
+                Click="Button_Click" Tag="Button_2" Grid.ColumnSpan="2"  Grid.RowSpan="2" Height="76" Margin="1,0,0,0" Width="198"/>
+        <Button Content="3" HorizontalAlignment="Left" 
                 Grid.Column="3" Grid.Row="3" 
                 VerticalAlignment="Top" 
-                Click="Button_Click" Tag="Button_6"/>
-        <Button Content="1" HorizontalAlignment="Left" 
-                Grid.Column="1" Grid.Row="4"
-                VerticalAlignment="Top" 
-                Click="Button_Click" Tag="Button_1"/>
-        <Button Content="2" HorizontalAlignment="Left" 
+                Click="Button_Click" Tag="Button_3"  Grid.RowSpan="2"/>
+        <Button Content="0" HorizontalAlignment="Left" 
                 Grid.Column="2" Grid.Row="4" 
                 VerticalAlignment="Top" 
-                Click="Button_Click" Tag="Button_2"/>
-        <Button Content="3" HorizontalAlignment="Left" 
-                Grid.Column="3" Grid.Row="4" 
-                VerticalAlignment="Top" 
-                Click="Button_Click" Tag="Button_3"/>
-        <Button Content="0" HorizontalAlignment="Left" 
-                Grid.Column="2" Grid.Row="5" 
-                VerticalAlignment="Top" 
-                Click="Button_Click" Tag="Button_0"/>
+                Click="Button_Click" Tag="Button_0" Grid.ColumnSpan="2"  Height="76" Margin="1,0,0,-1" Width="198"/>
         <Button Content="/" HorizontalAlignment="Left" 
                 Grid.Column="0" Grid.Row="1" 
                 VerticalAlignment="Top" 
-                Click="Button_Click" Tag="Button_Divide"/>
+                Click="Button_Click" Tag="Button_Divide" Height="74" Margin="0" Width="198"/>
         <Button Content="reset" HorizontalAlignment="Left" 
-                Grid.Column="4" Grid.Row="1" 
+                Grid.Column="3" 
                 VerticalAlignment="Top" 
-                Click="Button_Click" Tag="Button_Reset"/>
-        <Button Content="X" HorizontalAlignment="Left" 
+                Click="Button_Click" Tag="Button_Reset"  Width="198" Height="74" Margin="1,0,0,0"/>
+        <Button Content="*" HorizontalAlignment="Left" 
                 Grid.Column="0" Grid.Row="2" 
                 VerticalAlignment="Top"
-                Click="Button_Click" Tag="Button_Multiply"/>
+                Click="Button_Click" Tag="Button_Multiply" Height="76" Margin="0" Grid.RowSpan="2" Width="198"/>
         <Button Content="-" HorizontalAlignment="Left" 
                 Grid.Column="0" Grid.Row="3" 
                 VerticalAlignment="Top"
-                Click="Button_Click" Tag="Button_Minus"/>
+                Click="Button_Click" Tag="Button_Minus" Height="76" Margin="0" Grid.RowSpan="2" Width="198"/>
         <Button Content="+" HorizontalAlignment="Left" 
                 Grid.Column="0" Grid.Row="4" 
                 VerticalAlignment="Top" 
-                Click="Button_Click" Tag="Button_Plus"/>
+                Click="Button_Click" Tag="Button_Plus" Height="76" Margin="0,0,0,-1" Width="198"/>
         <Button Content="=" HorizontalAlignment="Left" 
-                Grid.Column="0" Grid.Row="5" 
+                Grid.Column="1" Grid.Row="4" 
                 VerticalAlignment="Top" 
-                Click="Button_Click" Tag="Button_Equals"/>
+                Click="Button_Click" Tag="Button_Equals" Width="199" Height="76" Margin="0,0,0,-1"/>
         <Button Content="+/-" HorizontalAlignment="Left" 
-                Grid.Column="1" Grid.Row="5" 
+                Grid.Column="3" Grid.Row="4" 
                 VerticalAlignment="Top" 
-                Click="Button_Click" Tag="Plus_Minus"/>
-        <Button Content="," HorizontalAlignment="Left" 
-                Grid.Column="3" Grid.Row="5" 
-                VerticalAlignment="Top" Width="199" Height="62"/>
-        <TextBox x:Name="Sum" Text="0" TextAlignment="Center" 
+                Click="Button_Click" Tag="Plus_Minus" Margin="1,0,0,-1" Width="197" Height="76"/>
+        <Border Grid.Column="2" BorderThickness="0" BorderBrush="Black" Grid.Row="1" Margin="1,0,0,0" >
+            <TextBox x:Name="Sum" Text="0" TextAlignment="Center" 
                 Grid.Column="2" Grid.Row="1" VerticalContentAlignment="Center" VerticalAlignment="Center"
-                Width="199" Height="62"  FontSize="30" HorizontalAlignment="Center" />
-        
+                Width="393" Height="73"  FontSize="30" HorizontalAlignment="Center" Margin="-196,-73,0,74" />
+        </Border>
     </Grid>
 </Window>

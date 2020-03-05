@@ -21,53 +21,62 @@ namespace DeskopApp
     /// </summary>
     public partial class MainWindow : Window
     {
-        private float number1 = 0;//Total
-        private float number2 = 0;//subtotal
-        private float inputNumber = 0;
-        private string operation = "";
-
+        private long total = 0;//Total
+        private long subtotal = 0;//subtotal
+        private long inputNumber = 0;
+        private string operation = ""; // variable represent operation 
+        /**
+         * Display number in parameters in TextBox 
+         */
         private void DisplayResult(float number)
         {
-            this.Sum.Text = number.ToString();
+            this.Sum.Text = number.ToString();       
         }
+        /**
+         * Main window implementation
+         */
         public MainWindow()
         {
             InitializeComponent();
-            this.Title = "Hello World";
             this.WindowStartupLocation = WindowStartupLocation.CenterScreen;
 
         }
-        private void Window_MouseMove(object sender, MouseEventArgs e)
+        /**
+         * Calculator logic takes one arhument number
+         */ 
+        private void AddToNumber(long number)
         {
-
-        }
-        private void AddToNumber(float number)
-        {
+            // if dont click operation so add it to Total 
             if (operation.Equals(""))
             {
-                number1 = (number1 * 10) + number;
-                this.DisplayResult(number1);
+                total = (total * 10) + number;
+                this.DisplayResult(total);
             }
             else
             {
-                number2 = (number2 * 10) + number;
-                this.DisplayResult(number2);
+                // add number to subSum
+                subtotal = (subtotal * 10) + number;
+                this.DisplayResult(subtotal);
             }
 
         }
+        // multiply number to change value (positive to negative)
         private void btnPositiveNegative_Click()
         {
             if (operation.Equals(""))
             {
-                number1 *= -1;
-                this.DisplayResult(number1);
+                total *= -1;
+                this.DisplayResult(total);
             }
             else
             {
-                number2 *= -1;
-                this.DisplayResult(number2);
+                subtotal *= -1;
+                this.DisplayResult(subtotal);
             }
         }
+        /*
+         * Find input symbol and do operation
+         */ 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
 
@@ -114,29 +123,29 @@ namespace DeskopApp
                     AddToNumber(inputNumber);
                     break;
                 case "Button_Reset":
-                    number2 = 0;
-                    number1 = 0;
+                    subtotal = 0;
+                    total = 0;
                     operation = "";
-                    DisplayResult(number2);
+                    DisplayResult(subtotal);
                     break;
                 case "Button_Equals":
                     Find_Operation(operation);
                     break;
                 case "Button_Plus":
-                    DisplayResult(number2);
+                    DisplayResult(subtotal);
                     operation = "+";
                     break;
                 case "Button_Minus":
                     operation = "-";
-                    DisplayResult(number2);
+                    DisplayResult(subtotal);
                     break;
                 case "Button_Multiply":
                     operation = "*";
-                    DisplayResult(number2);
+                    DisplayResult(subtotal);
                     break;
                 case "Button_Divide":
                     operation = "/";
-                    DisplayResult(number2);
+                    DisplayResult(subtotal);
                     break;
                 case "Plus_Minus":
                     btnPositiveNegative_Click();
@@ -150,21 +159,22 @@ namespace DeskopApp
             switch (operationChar)
             {
                 case "+":
-                    DisplayResult(number1 += number2);
+                    DisplayResult(total += subtotal);
                     break;
                 case "-":
-                    DisplayResult(number1 -= number2);
+                    DisplayResult(total -= subtotal);
                     break;
                 case "*":
-                    DisplayResult(number1 *= number2);
+                    DisplayResult(total *= subtotal);
                     break;
                 case "/":
-                    DisplayResult(number1 /= number2);
+                    DisplayResult(total /= subtotal);
                     break;
                 default:
                     break;
             }
-            number2 = 0;
+            //after operation reset subtotal becouse user want input another number
+            subtotal = 0;
         }
     }
 }
