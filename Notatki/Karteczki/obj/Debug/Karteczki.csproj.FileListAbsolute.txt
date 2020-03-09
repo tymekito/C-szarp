@@ -1,0 +1,32 @@
+C:\Users\Grzegorz\documents\visual studio 2015\Projects\Notatki\Karteczki\bin\Debug\Karteczki.exe.config
+C:\Users\Grzegorz\documents\visual studio 2015\Projects\Notatki\Karteczki\bin\Debug\Karteczki.exe
+C:\Users\Grzegorz\documents\visual studio 2015\Projects\Notatki\Karteczki\bin\Debug\Karteczki.pdb
+C:\Users\Grzegorz\documents\visual studio 2015\Projects\Notatki\Karteczki\obj\Debug\Karteczki.csprojResolveAssemblyReference.cache
+C:\Users\Grzegorz\documents\visual studio 2015\Projects\Notatki\Karteczki\obj\Debug\Karteczki.Form1.resources
+C:\Users\Grzegorz\documents\visual studio 2015\Projects\Notatki\Karteczki\obj\Debug\Karteczki.Properties.Resources.resources
+C:\Users\Grzegorz\documents\visual studio 2015\Projects\Notatki\Karteczki\obj\Debug\Karteczki.csproj.GenerateResource.Cache
+C:\Users\Grzegorz\documents\visual studio 2015\Projects\Notatki\Karteczki\obj\Debug\Karteczki.exe
+C:\Users\Grzegorz\documents\visual studio 2015\Projects\Notatki\Karteczki\obj\Debug\Karteczki.pdb
+C:\Users\Grzegorz\Desktop\Notatki\Karteczki\bin\Debug\Karteczki.exe.config
+C:\Users\Grzegorz\Desktop\Notatki\Karteczki\obj\Debug\Karteczki.exe
+C:\Users\Grzegorz\Desktop\Notatki\Karteczki\obj\Debug\Karteczki.pdb
+C:\Users\kazim\Desktop\Notatki\Karteczki\bin\Debug\Karteczki.exe.config
+C:\Users\kazim\Desktop\Notatki\Karteczki\bin\Debug\Karteczki.exe
+C:\Users\kazim\Desktop\Notatki\Karteczki\bin\Debug\Karteczki.pdb
+C:\Users\kazim\Desktop\Notatki\Karteczki\obj\Debug\Karteczki.csprojAssemblyReference.cache
+C:\Users\kazim\Desktop\Notatki\Karteczki\obj\Debug\Karteczki.Form1.resources
+C:\Users\kazim\Desktop\Notatki\Karteczki\obj\Debug\Karteczki.Properties.Resources.resources
+C:\Users\kazim\Desktop\Notatki\Karteczki\obj\Debug\Karteczki.csproj.GenerateResource.cache
+C:\Users\kazim\Desktop\Notatki\Karteczki\obj\Debug\Karteczki.csproj.CoreCompileInputs.cache
+C:\Users\kazim\Desktop\Notatki\Karteczki\obj\Debug\Karteczki.exe
+C:\Users\kazim\Desktop\Notatki\Karteczki\obj\Debug\Karteczki.pdb
+D:\GitHub\C-szarp\Notatki\Karteczki\bin\Debug\Karteczki.exe.config
+D:\GitHub\C-szarp\Notatki\Karteczki\bin\Debug\Karteczki.exe
+D:\GitHub\C-szarp\Notatki\Karteczki\bin\Debug\Karteczki.pdb
+D:\GitHub\C-szarp\Notatki\Karteczki\obj\Debug\Karteczki.csprojAssemblyReference.cache
+D:\GitHub\C-szarp\Notatki\Karteczki\obj\Debug\Karteczki.Form1.resources
+D:\GitHub\C-szarp\Notatki\Karteczki\obj\Debug\Karteczki.Properties.Resources.resources
+D:\GitHub\C-szarp\Notatki\Karteczki\obj\Debug\Karteczki.csproj.GenerateResource.cache
+D:\GitHub\C-szarp\Notatki\Karteczki\obj\Debug\Karteczki.csproj.CoreCompileInputs.cache
+D:\GitHub\C-szarp\Notatki\Karteczki\obj\Debug\Karteczki.exe
+D:\GitHub\C-szarp\Notatki\Karteczki\obj\Debug\Karteczki.pdb

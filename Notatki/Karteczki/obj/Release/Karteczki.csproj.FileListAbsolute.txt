@@ -1,0 +1,9 @@
+D:\GitHub\C-szarp\Notatki\Karteczki\bin\Release\Karteczki.exe.config
+D:\GitHub\C-szarp\Notatki\Karteczki\bin\Release\Karteczki.exe
+D:\GitHub\C-szarp\Notatki\Karteczki\bin\Release\Karteczki.pdb
+D:\GitHub\C-szarp\Notatki\Karteczki\obj\Release\Karteczki.Form1.resources
+D:\GitHub\C-szarp\Notatki\Karteczki\obj\Release\Karteczki.Properties.Resources.resources
+D:\GitHub\C-szarp\Notatki\Karteczki\obj\Release\Karteczki.csproj.GenerateResource.cache
+D:\GitHub\C-szarp\Notatki\Karteczki\obj\Release\Karteczki.csproj.CoreCompileInputs.cache
+D:\GitHub\C-szarp\Notatki\Karteczki\obj\Release\Karteczki.exe
+D:\GitHub\C-szarp\Notatki\Karteczki\obj\Release\Karteczki.pdb
