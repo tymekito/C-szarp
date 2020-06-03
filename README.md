@@ -1,4 +1,4 @@
-# My C# projects
+# My projects
 ### 1 WPF calculator <br />
 
 ### 2 WPF desktop application with assembler dll <br />
